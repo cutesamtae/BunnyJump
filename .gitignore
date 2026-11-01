@@ -1,0 +1,43 @@
+# Unity-generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Builds and generated backups
+/[Bb]uild/
+/[Bb]uilds/
+/*.app/
+/*_BackUpThisFolder_ButDontShipItWithYourGame/
+/*_BurstDebugInformation_DoNotShip/
+
+# IDE-generated files
+/.idea/
+/.vs/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+*.pdb
+*.mdb
+
+# OS-generated files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Local crash reports
+sysinfo.txt
+mono_crash.*
